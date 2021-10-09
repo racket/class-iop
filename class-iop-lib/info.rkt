@@ -6,3 +6,6 @@
 (define pkg-authors '(ryanc))
 
 (define test-responsibles '((all ryanc)))
+
+(define license
+  '(Apache-2.0 OR MIT))
